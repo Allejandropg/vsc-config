@@ -1,0 +1,30 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "window.zoomLevel": 0,
+    "emmet.triggerExpansionOnTab": true,
+    "editor.tabCompletion": "on",
+    "workbench.startupEditor": "welcomePage",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "diffEditor.ignoreTrimWhitespace": true,
+    "window.openWithoutArgumentsInNewWindow": "off",
+    "workbench.list.openMode": "doubleClick",
+    "editor.stablePeek": true,
+    "breadcrumbs.enabled": true,
+    "[json]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.wordWrap": "on",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.iconTheme": "vscode-icons",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDelete": false
+}
